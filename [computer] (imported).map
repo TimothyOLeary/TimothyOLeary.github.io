@@ -1,4 +1,4 @@
-<img src="[computer] (imported)" width="3000" height="2040" border="0" usemap="#map" />
+<img src="[computer] (imported)" width="1024" height="696" border="0" usemap="#map" />
 
 <map name="map">
 <!-- #$-:Image map file created by GIMP Image Map plug-in -->
@@ -6,5 +6,5 @@
 <!-- #$-:Please do not edit lines starting with "#$" -->
 <!-- #$VERSION:2.3 -->
 <!-- #$AUTHOR:Timot -->
-<area shape="rect" coords="794,508,1110,875" alt="Fan" target="audio" href="computer-hum.wav" />
+<area shape="rect" coords="264,171,383,302" alt="Fan" target="audio" href="computer-hum.wav" />
 </map>
